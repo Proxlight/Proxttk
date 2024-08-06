@@ -2,7 +2,7 @@
 
 Welcome to **Proxttk**, the ultimate terminal-based tool for designing and generating Tkinter-based GUI applications! 🚀 With Proxttk, you can quickly prototype your GUI, set up widgets, and generate clean Tkinter code directly from the command line.
 
-![Proxttk Logo](https://example.com/path/to/your/logo.png)  <!-- Replace with your logo URL -->
+![Proxttk Logo](logo.png)  <!-- Replace with your logo URL -->
 
 ## Features
 
