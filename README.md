@@ -4,7 +4,7 @@ Welcome to **Proxttk**, the ultimate terminal-based tool for designing and gener
 
 ![Proxttk Logo](https://github.com/Proxlight/Proxttk/blob/main/Logo.png) <!-- Replace with your resized logo URL -->
 <small><em>(© Proxlight 2024)</em></small>
-### Creafted ❤️ With By Pratyush Mishra
+#### Creafted With ❤️ By Pratyush Mishra
 ## Features
 
 - **📐 Set Application Size**: Easily define your app's dimensions.
