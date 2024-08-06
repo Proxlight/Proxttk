@@ -111,7 +111,7 @@ if __name__ == "__main__":
 
 In this example, the application window is 800x600 pixels, featuring a button with an image that changes when hovered over. 
 
-![Example App](https://example.com/path/to/example_image.png) <!-- Replace with your example image URL -->
+![Example App](https://github.com/Proxlight/Proxttk/blob/main/Demo.png) <!-- Replace with your example image URL -->
 
 ## Contributing
 
