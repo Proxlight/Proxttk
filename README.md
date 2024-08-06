@@ -2,7 +2,7 @@
 
 Welcome to **Proxttk**, the ultimate terminal-based tool for designing and generating Tkinter-based GUI applications! 🚀 With Proxttk, you can quickly prototype your GUI, set up widgets, and generate clean Tkinter code directly from the command line.
 
-![Proxttk Logo](https://github.com/Proxlight/Proxttk/blob/main/Logo.png) <!-- Replace with your logo URL -->
+![Proxttk Logo](https://github.com/Proxlight/Proxttk/blob/main/Logo.png) <!-- Replace with your resized logo URL -->
 <small><em>(Logo resized for clarity)</em></small>
 
 ## Features
@@ -120,8 +120,11 @@ We welcome contributions! If you'd like to help out, please fork the repository 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 **Happy Designing!** 🎨 If you have any questions or need help, feel free to reach out.
 
 ---
 
-You can resize the logo image by modifying its size in the markdown or HTML code, or you can use an image editing tool to create a smaller version of the logo. Replace `https://example.com/path/to/your/logo.png` with the actual URL of your resized logo.
+Replace the placeholder URLs with the actual URLs for your resized logo and example images.
