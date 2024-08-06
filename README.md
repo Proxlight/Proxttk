@@ -3,8 +3,8 @@
 Welcome to **Proxttk**, the ultimate terminal-based tool for designing and generating Tkinter-based GUI applications! 🚀 With Proxttk, you can quickly prototype your GUI, set up widgets, and generate clean Tkinter code directly from the command line.
 
 ![Proxttk Logo](https://github.com/Proxlight/Proxttk/blob/main/Logo.png) <!-- Replace with your resized logo URL -->
-<small><em>(© Proxlight 2024)</em></small>
-#### Creafted With ❤️ By Pratyush Mishra
+
+#### Crafted With ❤️ By Pratyush Mishra
 ## Features
 
 - **📐 Set Application Size**: Easily define your app's dimensions.
@@ -116,6 +116,8 @@ In this example, the application window is 800x600 pixels, featuring a button wi
 ## Contributing
 
 We welcome contributions! If you'd like to help out, please fork the repository and submit a pull request. For issues or feature requests, open an issue on GitHub.
+
+<small><em>(© Proxlight 2024)</em></small>
 
 ## License
 
