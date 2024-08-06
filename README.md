@@ -121,10 +121,3 @@ We welcome contributions! If you'd like to help out, please fork the repository 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-**Happy Designing!** 🎨 If you have any questions or need help, feel free to reach out.
-
----
-
-Replace the placeholder URLs with the actual URLs for your resized logo and example images.
