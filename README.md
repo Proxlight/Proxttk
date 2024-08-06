@@ -117,9 +117,10 @@ In this example, the application window is 800x600 pixels, featuring a button wi
 
 We welcome contributions! If you'd like to help out, please fork the repository and submit a pull request. For issues or feature requests, open an issue on GitHub.
 
-<small><em>(© Proxlight 2024)</em></small>
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+<small><em>© Proxlight 2024</em></small>
